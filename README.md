@@ -7,3 +7,5 @@ practice projects to modify images using CSS, HTML, Javascript
 * makeBlueYellow.js - function to filter image, changing blue to yellow in the image
 * swapGreenRed.js - function to fitler image, swapping green for red in the image
 * [link to website to test image code](https://www.dukelearntoprogram.com//course1/example/index.php)
+
+* GrayScaleConverter.java - java class to convert an image to grayscale
